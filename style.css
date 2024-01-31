@@ -125,6 +125,7 @@ header .content p{
 }
 
 header .image{
+    color: #ccc;
     position: relative;
 }
 
@@ -146,5 +147,3 @@ header .image img{
     max-width: 600px;
     margin: auto;
 }
-
-
